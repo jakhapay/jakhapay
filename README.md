@@ -1,13 +1,10 @@
 # Hi, I'm Jakhongir Mannonov 👋
 
-**QA Automation Engineer @ Payme**  
-📍 Uzbekistan
-
 ---
 
 ### 👨‍💻 About Me
 
-- Passionate about **Android development** and **test automation**
+- Passionate about **Android development**
 - Sharing knowledge on my [YouTube channel – Jakhadev](https://www.youtube.com/@Jakhadev) (50+ videos!)
 - Former economics intern at *Arnasoy tumani qishloq va suv xo'jaligi bo‘limi*  
   🧾 Mentored by accountant Javohir Ravshanov
