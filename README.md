@@ -1,1 +1,1 @@
-# Hi my name is Jakhongir (Jakha)
+Hi my name is Jakhongir (Jakha)
